@@ -1,5 +1,6 @@
-## Hi there 👋
+## 반갑습니다 👋
 
+넘부언덮밥의 깃허브 페이지에 오신 것을 환영합니다
 <!--
 **numbundupbap/numbundupbap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
