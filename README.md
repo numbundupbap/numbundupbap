@@ -21,11 +21,6 @@ velog : [넘부언덮밥](https://velog.io/@numbundupbap/posts)
 
 [![솔브드](https://mazassumnida.wtf/api/v2/generate_badge?boj=hj0531)](https://solved.ac/profile/hj0531)
 
-
-
-
-###### 엔트리 접음
-
 <!--
 **numbundupbap/numbundupbap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
